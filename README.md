@@ -8,7 +8,7 @@ This repository showcases a collection of my data science projects, analyses, an
 ## Projects 
 ### 1. Predicting Fetal Health with Machine Learning
 - Description: An optimized model to predict fetal health based on features from cardiotocography (CTG) scans. This project involved testing several supervised learning algorithms, feature engineering, and evaluating model performance using various metrics.  
-- Link to Project  
+- [Link to Project](https://github.com/zeetaaisha/data-science-portfolio/blob/main/fetal-health-prediction/fetal_health_prediction_model.ipynb)  
 - *Tools: Pandas, scikit-learn, Matplotlib.*
 
 ## Contact Me
