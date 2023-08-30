@@ -11,6 +11,11 @@ This repository showcases a collection of my data science projects, analyses, an
 - [Link to Project](https://github.com/zeetaaisha/data-science-portfolio/blob/main/fetal-health-prediction/fetal_health_prediction_model.ipynb)  
 - *Tools: Pandas, scikit-learn, Matplotlib.*
 
+### 2. Gender Pay Gap Exploration
+- Description: An in-depth exploration of a dataset comprising reported earnings for various job titles, classified by gender. Through analysis and visualization, this project aimed to uncover insights into the disparities between genders in terms of earnings in the workplace. By shedding light on this issue, I hope to contribute to discussions surrounding gender equity and fair compensation practices.
+- [Link to Project](https://github.com/zeetaaisha/data-science-portfolio/blob/main/pay-gap-exploration/gender_pay_gap_exploration.ipynb)
+- *Tools: Pandas, Seaborn, Matplotlib, SciPy*
+
 ## Contact Me
 Feel free to reach out to me if you have any questions, suggestions, or collaboration opportunities. You can email me at abubakarzeeta@gmail.com, or reach out via [LinkedIn](https://www.linkedin.com/in/zeetaabubakar/). 
 
